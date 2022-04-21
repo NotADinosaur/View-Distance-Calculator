@@ -4,7 +4,7 @@ A simple program written in python which calculates how far away from something 
 ## Usage
 <ins>command line:</ins> run `main.py -f [field of view in degrees] -r [radius of the area you want to view]`  
 optional flags: 
-- `-h` or `--help` flag for help message
+- `-h` help message that tells you all the different flags
 - `-v` for "verbose mode" (more info returned)
 - `-u [unit]` tells program what kind of units to use. example: `-u meters`
 
