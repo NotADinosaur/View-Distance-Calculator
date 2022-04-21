@@ -6,6 +6,7 @@ parser.add_argument("-f", type = float, help = "input for field of view (in degr
 parser.add_argument("-r", type = float, help = "radius of the area you want to view", required = True)
 parser.add_argument("-v", default = False, action = "store_true", help = "enable verbose output")
 parser.add_argument("-u", type = str, default = "units", help = "unit to use for radius and distance")
+parser.add_argument("-d", type = int, default = 3, help = "amout of decimal places for result")
 args = parser.parse_args()
 
 def aquire_tan(f):
