@@ -13,5 +13,6 @@ Note: Not in order of priority, will happen as I learn how to do these things
 - add units
 - support non-square field of view
 - gui
+- rounding
 - provide as an exe
 - I'm probably forgetting something
