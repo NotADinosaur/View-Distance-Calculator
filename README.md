@@ -8,7 +8,7 @@ optional flags:
 - `-v` for "verbose mode" (more info returned)
 - `-u [unit]` tells program what kind of units to use. example: `-u meters`
 
-example: `main.py -f 85 -r 1024 -v`
+minimum usage example: `main.py -f 85 -r 1024`
 
 <ins>gui:</ins> doesn't exist yet
 
